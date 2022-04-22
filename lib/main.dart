@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_cubit_app/welcome_page.dart';
+import 'package:flutter_cubit_app/pages/welcome_page.dart';
 
 void main() {
   runApp(const MyApp());
