@@ -65,7 +65,7 @@ class _DetailPageState extends State<DetailPage> {
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
                           AppLargeText(
-                            text: "Yosemigte",
+                            text: "Yosemite",
                             color: Colors.black54.withOpacity(0.8),
                           ),
                           AppLargeText(
